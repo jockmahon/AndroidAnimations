@@ -10,6 +10,8 @@ import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.LinearLayout.LayoutParams;
 
+
+
 public class BitmapScaling extends Activity
 {
 
