@@ -1,6 +1,7 @@
 package com.example.androidanimations;
 
 import android.animation.ObjectAnimator;
+import android.animation.ValueAnimator;
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -15,6 +16,7 @@ import android.view.animation.AccelerateInterpolator;
 public class BounceAnimation extends Activity
 {
 
+	@Override
 	public void onCreate( Bundle state )
 	{
 		super.onCreate( state );

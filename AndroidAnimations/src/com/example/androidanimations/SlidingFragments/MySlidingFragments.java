@@ -152,6 +152,7 @@ public class MySlidingFragments extends Activity implements OnTextFragmentAnimat
 	}
 
 
+	@Override
 	public void onAnimationEnd()
 	{
 		mIsAnimating = false;

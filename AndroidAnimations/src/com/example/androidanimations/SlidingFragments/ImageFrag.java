@@ -15,6 +15,7 @@ public class ImageFrag extends Fragment
 	View.OnClickListener clickListener;
 
 
+	@Override
 	public View onCreateView( LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState )
 	{
 		View view = inflater.inflate( R.layout.image_fragment, container, false );

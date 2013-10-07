@@ -137,6 +137,7 @@ public class AnticiButton extends Button implements OnTouchListener
 	}
 
 
+	@Override
 	public boolean onTouch( View v, MotionEvent e )
 	{
 		switch (e.getAction())

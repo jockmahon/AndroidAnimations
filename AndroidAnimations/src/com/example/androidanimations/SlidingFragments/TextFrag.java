@@ -17,6 +17,7 @@ public class TextFrag extends Fragment
 	OnTextFragmentAnimationEndListener mListener;
 
 
+	@Override
 	public View onCreateView( LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState )
 	{
 		View view = inflater.inflate( R.layout.text_fragment, container, false );

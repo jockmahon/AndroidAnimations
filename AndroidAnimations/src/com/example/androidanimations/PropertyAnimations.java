@@ -9,8 +9,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.animation.Animation;
-import android.view.animation.AnimationSet;
 import android.widget.Button;
 
 public class PropertyAnimations extends Activity
